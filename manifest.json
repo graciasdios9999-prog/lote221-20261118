@@ -1,0 +1,32 @@
+[
+  {
+    "file": "ia_shinisaurus.mp4",
+    "duration": 201.01095800000002,
+    "size": 26220896,
+    "voice": "es-MX-DaliaNeural",
+    "title": "2026 Este lagarto parece cocodrilo y su familia ya no está",
+    "thumb": "COLA DE PIEDRA",
+    "category": "15",
+    "words": 403
+  },
+  {
+    "file": "fe_epafrodito.mp4",
+    "duration": 207.348249,
+    "size": 31728593,
+    "voice": "es-MX-JorgeNeural",
+    "title": "2026 Casi no vuelve y no regresó vacío",
+    "thumb": "NO VOLVIÓ VACÍO",
+    "category": "27",
+    "words": 434
+  },
+  {
+    "file": "cu_nodo.mp4",
+    "duration": 196.05754100000001,
+    "size": 30915161,
+    "voice": "es-CO-SalomeNeural",
+    "title": "2026 Tu corazón late sin pedirte permiso",
+    "thumb": "LATE SIN PERMISO",
+    "category": "27",
+    "words": 418
+  }
+]
